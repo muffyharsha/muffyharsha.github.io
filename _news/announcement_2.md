@@ -19,8 +19,8 @@ One of the highlights of the event was meeting Sonny Li, the founder of Codédex
 I want to express my gratitude to SBUHacks and its volunteers for organizing such a wonderful event. It was a great opportunity to learn, network, and have fun. Looking forward to attending more events like this in the future!
 
 
-![sbuhacks1](/assets/img/sbuhacks1.jpg){: style="height:150px"}
-![sbuhacks2](/assets/img/sbuhacks2.jpg){: style="height:150px"}
-![sbuhacks3](/assets/img/sbuhacks3.jpg){: style="height:150px"}
+![sbuhacks1](/assets/img/sbuhacks1.jpg){: style="height:175px"}
+![sbuhacks2](/assets/img/sbuhacks2.jpg){: style="height:175px"}
+![sbuhacks3](/assets/img/sbuhacks3.jpg){: style="height:175px"}
 
 ---
