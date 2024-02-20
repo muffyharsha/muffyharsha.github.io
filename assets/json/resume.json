@@ -29,7 +29,7 @@
       "url": "https://talent.lowes.com/us/en",
       "startDate": "2019-08-01",
       "endDate": "2021-08-01",
-      "summary": "Collaborating on building data pipelines for financial data of products in Lowe’s inventory(Retail, data driven). \\nPipelines include assembling large complex multi-time dimensional(daily, weekly, quarterly etc) datasets to be consumed by business. \\nTech Stack - Pyspark, Java, Python, SQL, Airflow, Shell Script",
+      "summary": "Collaborating on building data pipelines for financial data of products in Lowe’s inventory(Retail, data driven). \nPipelines include assembling large complex multi-time dimensional(daily, weekly, quarterly etc) datasets to be consumed by business. \nTech Stack - Pyspark, Java, Python, SQL, Airflow, Shell Script",
       "highlights": ["Data Engineering", "PySpark", "Hadoop", "Hive", "Kafka", "Airflow", "Python", "SQL", "ETL", "Data Warehousing", "Data Modeling", "Data Analysis", "NLP", "Computer Vision", "Time Series Analysis", "Predictive Modeling", "Statistical Analysis", "Big Data", "Data Science",   "Data Warehousing", "Data Modeling", "Data Analysis", "Data Visualization", "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Time Series Analysis", "Predictive Modeling", "Recommendation Systems", "A/B Testing", "Statistical Analysis", "Data Mining", "Big Data", "Data Science"]
     },
     {
