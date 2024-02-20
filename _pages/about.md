@@ -6,12 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_image.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Boston, MA, USA</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +17,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello, I’m Sri Harsha, a results-driven AI enthusiast pursuing [Master’s in Artificial Intelligence](https://www.khoury.northeastern.edu/programs/artificial-intelligence-ms/) from Khoury College of Computer Sciences, [Northeastern University](https://graduate.northeastern.edu/), Boston. I bring a wealth of experience in building robust data pipelines and solutions for major companies like Lowe’s and GE Healthcare. Certified in AWS Data Analytics and Confluent Developer for Apache Kafka, I excel in leveraging cloud technologies to drive efficiency. My passion lies in tackling complex challenges, I'm open to collaboration, with no barriers to learning whatever's needed to solve the problem at hand.
