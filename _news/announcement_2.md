@@ -22,4 +22,5 @@ I want to express my gratitude to SBUHacks and its volunteers for organizing suc
 ![sbuhacks1](/assets/img/sbuhacks1.jpg){: style="height:83px"}
 ![sbuhacks2](/assets/img/sbuhacks2.jpg){: style="height:83px"}
 ![sbuhacks3](/assets/img/sbuhacks3.jpg){: style="height:83px"}
+
 ---
