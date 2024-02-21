@@ -30,16 +30,16 @@
       "startDate": "2019-08-01",
       "endDate": "2021-08-01",
       "summary": "Collaborating on building data pipelines for financial data of products in Lowe’s inventory(Retail, data driven). \nPipelines include assembling large complex multi-time dimensional(daily, weekly, quarterly etc) datasets to be consumed by business. \nTech Stack - Pyspark, Java, Python, SQL, Airflow, Shell Script",
-      "highlights": ["Data Engineering", "PySpark", "Hadoop", "Hive", "Kafka", "Airflow", "Python", "SQL", "ETL", "Data Warehousing", "Data Modeling", "Data Analysis", "NLP", "Computer Vision", "Time Series Analysis", "Predictive Modeling", "Statistical Analysis", "Big Data", "Data Science",   "Data Warehousing", "Data Modeling", "Data Analysis", "Data Visualization", "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Time Series Analysis", "Predictive Modeling", "Recommendation Systems", "A/B Testing", "Statistical Analysis", "Data Mining", "Big Data", "Data Science"]
+      "highlights": ["Data Engineering", "AWS", "Data Analytics"]
     },
     {
       "name": "GE Healthcare",
-      "position": "Data Engineer",
-      "url": "https://talent.lowes.com/us/en",
+      "position": "Data Engineering Specialist",
+      "url": "https://careers.gehealthcare.com/global/en/",
       "startDate": "2019-08-01",
-      "endDate": "2021-08-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Data Engineering", "PySpark", "Hadoop", "Hive", "Kafka", "Airflow", "Python", "SQL", "ETL", "Data Warehousing", "Data Modeling", "Data Analysis", "NLP", "Computer Vision", "Time Series Analysis", "Predictive Modeling", "Statistical Analysis", "Big Data", "Data Science",   "Data Warehousing", "Data Modeling", "Data Analysis", "Data Visualization", "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Time Series Analysis", "Predictive Modeling", "Recommendation Systems", "A/B Testing", "Statistical Analysis", "Data Mining", "Big Data", "Data Science"]
+      "endDate": "2021-07-20",
+      "summary": "Collaborated on building a petabyte scale data warehouse solution and data pipeline on AWS with data and analytics team for Healthcare assets and its metadata, reducing the overall cost of operation by 80%(compared to the old on-prem solution). \nAutomated the compaction process development, using glue ETL jobs creation, data profiling, DDL creation and copying data to Redshift; effectively reducing the development cycle time from days to few hours. \nCollaborated on building near real time system to provide order details to customers regarding equipment and spare parts purchased; reduced the data lag from several hours to few seconds(comparison between old and new solution). \nTech stack - Pyspark, SQL, Python, AWS, Kafka, Java, Spring boot",
+      "highlights": ["Data Engineering", "Big Data", "Data Analytics"]
     }
   ],
   "volunteer": [
