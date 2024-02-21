@@ -29,8 +29,10 @@
       "url": "https://talent.lowes.com/us/en",
       "startDate": "2019-08-01",
       "endDate": "2021-08-01",
-      "summary": "Collaborating on building data pipelines for financial data of products in Lowe’s inventory(Retail, data driven). \nPipelines include assembling large complex multi-time dimensional(daily, weekly, quarterly etc) datasets to be consumed by business. \nTech Stack - Pyspark, Java, Python, SQL, Airflow, Shell Script",
-      "highlights": ["Data Engineering", "AWS", "Data Analytics"]
+      "summary": "Data Engineering, Big Data, AWS",
+      "highlights": ["Collaborating on building data pipelines for financial data of products in Lowe’s inventory(Retail, data driven).",
+       "Pipelines include assembling large complex multi-time dimensional(daily, weekly, quarterly etc) datasets to be consumed by business.",
+        "Tech Stack - Pyspark, Java, Python, SQL, Airflow, Shell Script"]
     },
     {
       "name": "GE Healthcare",
