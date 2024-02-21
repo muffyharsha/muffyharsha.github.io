@@ -27,8 +27,8 @@
       "name": "Lowe's",
       "position": "Data Engineer",
       "url": "https://talent.lowes.com/us/en",
-      "startDate": "2019-08-01",
-      "endDate": "2021-08-01",
+      "startDate": "2021-08-01",
+      "endDate": "2023-08-01",
       "summary": "Data Engineering, Big Data, AWS",
       "highlights": ["Collaborating on building data pipelines for financial data of products in Lowe’s inventory(Retail, data driven).",
        "Pipelines include assembling large complex multi-time dimensional(daily, weekly, quarterly etc) datasets to be consumed by business.",
@@ -40,8 +40,35 @@
       "url": "https://careers.gehealthcare.com/global/en/",
       "startDate": "2019-08-01",
       "endDate": "2021-07-20",
-      "summary": "Collaborated on building a petabyte scale data warehouse solution and data pipeline on AWS with data and analytics team for Healthcare assets and its metadata, reducing the overall cost of operation by 80%(compared to the old on-prem solution). \nAutomated the compaction process development, using glue ETL jobs creation, data profiling, DDL creation and copying data to Redshift; effectively reducing the development cycle time from days to few hours. \nCollaborated on building near real time system to provide order details to customers regarding equipment and spare parts purchased; reduced the data lag from several hours to few seconds(comparison between old and new solution). \nTech stack - Pyspark, SQL, Python, AWS, Kafka, Java, Spring boot",
-      "highlights": ["Data Engineering", "Big Data", "Data Analytics"]
+      "summary": "Data Engineering, Big Data, Data Analytics",
+      "highlights": ["Collaborated on building a petabyte scale data warehouse solution and data pipeline on AWS with data and analytics team for Healthcare assets and its metadata, reducing the overall cost of operation by 80%(compared to the old on-prem solution).", 
+      "Automated the compaction process development, using glue ETL jobs creation, data profiling, DDL creation and copying data to Redshift; effectively reducing the development cycle time from days to few hours.", 
+      "Collaborated on building near real time system to provide order details to customers regarding equipment and spare parts purchased; reduced the data lag from several hours to few seconds(comparison between old and new solution).",
+      "Tech stack - Pyspark, SQL, Python, AWS, Kafka, Java, Spring boot"]
+    },
+    {
+      "name": "GE Power",
+      "position": "Digital Technology Intern",
+      "url": "https://careers.gehealthcare.com/global/en/",
+      "startDate": "2019-01-01",
+      "endDate": "2021-06-01",
+      "summary": "Backend Development",
+      "highlights": ["Collaborated on building micro services and automation of the design process of a Heat Recovery Steam Generator.", 
+      "The solution efficiently replaced excel workloads, reduced manual errors.",
+      "Design delivery speed improvedmulti-fold.",
+      "Tech stack : Spring Boot"]
+    },
+    {
+      "name": "GE Digital",
+      "position": "Digital Technology Intern",
+      "url": "https://careers.gehealthcare.com/global/en/",
+      "startDate": "2018-05-01",
+      "endDate": "2018-07-01",
+      "summary": "Full Stack Development",
+      "highlights": ["Collaborated on building micro services and automation of the design process of a Heat Recovery Steam Generator.", 
+      "The solution efficiently replaced excel workloads, reduced manual errors.",
+      "Design delivery speed improvedmulti-fold.",
+      "Tech stack : Spring Boot, Angular JS"]
     }
   ],
   "volunteer": [
