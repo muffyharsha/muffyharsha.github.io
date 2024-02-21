@@ -73,13 +73,17 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "organization": "Anokha 2018 - Techfest Amrita School of Engineering",
+      "position": "Co-Head of Web and Multimedia",
+      "url": "https://play.google.com/store/apps/details?id=com.amrita.harsha.anokha2018&hl=en",
+      "startDate": "2017-12-01",
+      "endDate": "2018-2-28",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "highlights": ["Led the development efforts of official Android application for the techfest of Amrita School of Engineering", 
+      "Registrations for events were included along with map to navigate within the campus",
+      "Chatbot integrated with the application.",
+      "Over 5000 users downloads from google play store",
+      "Tech stack : Android Studio, Java"]
     }
   ],
   "education": [
